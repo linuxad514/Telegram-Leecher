@@ -103,7 +103,7 @@ class MSG:
 
 class Aria2c:
     link_info = False
-    pic_dwn_url = "https://picsum.photos/900/600"
+    pic_dwn_url = "https://fastly.picsum.photos/id/48/900/600.jpg?hmac=GkiXqVKLWPf75__4_cXtfOnApMq0jpbFUme81bSKYlg"
 
 
 class Gdrive:
